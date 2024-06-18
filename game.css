@@ -1,0 +1,49 @@
+#mainHead {
+    color: #ff4500;
+    background-color: rgb(240, 240, 240);
+    font-family: 'Waterlily', sans-serif;
+}
+
+#mainBody {
+    background-image: linear-gradient(to bottom left, #7f51ff, #fc57c0)
+}
+
+.gameTable {
+    font-size: 50px;
+    border-radius: 20px;
+}
+
+.buttons {
+    color: rgb(255, 255, 255);
+    background-color: #dadada;
+    padding: 70px;
+    border-radius: 15px;
+    border-color: #dadada;
+}
+.buttons:hover{
+    color: rgb(255, 255, 255);
+    background-color: #929292;
+    cursor: pointer;
+}
+
+table button {
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+table td {
+    padding: 10px;
+}
+
+#resetBtn {
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #dadada;
+    color: #ff4500;
+    border-radius: 20px;
+}
+
+#resetBtn:hover {
+    background-color: black;
+}
